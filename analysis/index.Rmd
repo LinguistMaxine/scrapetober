@@ -8,5 +8,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
-[Link to scrapetober analysis](scrapetober.html)
+Welcome to my notes on webscraping in R.
+
+[Link to set up details.](scrapetober.html)
