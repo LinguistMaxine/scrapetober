@@ -10,4 +10,6 @@ editor_options:
 
 Welcome to my notes on webscraping in R.
 
-[Link to set up details.](scrapetober.html)
+* [Link to set up details.](scrapetober.html)
+* [Link to session 1.](session-1.html)
+
